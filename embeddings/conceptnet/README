@@ -1,0 +1,4 @@
+To use ConceptNets wordembeddings download a embedding file from: https://github.com/commonsense/conceptnet-numberbatch
+Unzip the file and rename it to numberbatch-en.txt
+
+For example: https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-en-17.06.txt.gz
